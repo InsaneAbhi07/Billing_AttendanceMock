@@ -4,6 +4,8 @@ A clickable, frontend-only demo of a Tally-style sales billing system with a sma
 
 > **Demo only.** There is no backend, database, authentication or hardware integration. All data is fictitious sample data, stored in this browser's LocalStorage.
 
+**Live demo:** https://insaneabhi07.github.io/Billing_AttendanceMock/ (redeployed automatically on every push to `main` via GitHub Actions).
+
 ## Run locally
 
 ```bash
